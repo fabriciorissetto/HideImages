@@ -1,0 +1,44 @@
+/* General */
+a, div, html, table, td, tr, li, ul, input, h1, h2, h3, h4, h5, h6, span, label, p, i, iframe {
+    border: none !important;
+    font-weight: none !important;
+    background: none !important;
+    background-color: white !important;
+    color: black !important;
+}
+
+a:before, div:before, html:before, table:before, td:before, tr:before, li:before, ul:before, input:before, h1:before, h2:before, h3:before, h4:before, h5:before, h6:before, span:before, label:before, p:before, i:before {
+    border: none !important;
+    font-weight: none !important;
+    background: none !important;
+    background-color: white !important;
+    color: black !important;
+}
+
+a:after, div:after, html:after, table:after, td:after, tr:after, li:after, ul:after, input:after, h1:after, h2:after, h3:after, h4:after, h5:after, h6:after, span:after, label:after, p:after, i:after {
+    border: none !important;
+    font-weight: none !important;
+    background: none !important;
+    background-color: white !important;
+    color: black !important;
+}
+
+img, iframe {
+    visibility: hidden !important;
+    border: none !important;
+}
+
+/* Exclusive for obfuscate the facebook sidebars */
+
+.fbChatSidebar div {
+    display: none;
+}
+
+body {
+    background-color: white !important;
+    background-image: none !important;
+}
+
+#rightCol {
+    display: none;
+}
