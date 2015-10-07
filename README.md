@@ -1,6 +1,6 @@
 Chrome extension to hide images and change the css to make the pages looks almost like the notepad 
 
-### How to install
+# How to install
 Download/unzip the source code and add to the Chrome as an Extension:
 
 ![alt tag](http://www.fabriciorissetto.com/wp-content/uploads/2015/10/upload_unpacked_extensio_to_chrome.png)
