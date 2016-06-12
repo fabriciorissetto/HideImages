@@ -15,7 +15,7 @@ Puff...
 ![alt tag](http://www.fabriciorissetto.com/wp-content/uploads/2015/10/after_hide.png)
 
 # How it works
-It just adds some styles in the page that hide images and iframes, remove borders and colors, and so on:
+It just adds some styles in the page that hide images and iframes, remove borders, colors, and so on:
 
 ```css
 img, iframe {
